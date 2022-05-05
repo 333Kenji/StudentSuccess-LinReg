@@ -3,22 +3,24 @@
 # Linear Regression: Student Success Data
 
 
-
-The purpose of this project is to expand intuition in the processing and analysis of data for a simple linear regression problem.
-
-
-## Authors
+### About
+The purpose and scope of this project is to expand intuition in the processing and analysis of data for a simple linear regression problem.
+#
+### Author
 
 - Kenji Alford [Git](https://www.github.com/333kenji)
 
 
+---
+??? Linky
+The notebook(s) for this project can be found [here](https://github.com/333Kenji/StudentSuccess-LinReg/tree/main/Notebooks)
 <!-- TABLE OF CONTENTS -->
 <details>
     
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#motivations">Motivations</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -40,12 +42,10 @@ The purpose of this project is to expand intuition in the processing and analysi
 </details>
 
 
----
-??? Linky
-The notebook(s) for this project can be found here
 
 
 ## Motivations
+[](#motivations)  
 
 Project introduction.
 As part of a series of basic projects I'm taking a simple dataset and applying the general data science projecess, loading, wrangling, transformations and encoding, EDA, ML, and evaluations.
