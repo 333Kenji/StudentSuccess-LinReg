@@ -1,16 +1,18 @@
-??? Banner
+![banner](image.jpg)
+![alt text](https://github.com/333Kenji/StudentSuccess-LinReg/tree/main/Images/banner.jpeg "Final")
+
+# Linear Regression: Student Success Data
 
 
-# Project Title
 
-The purpose of this project is to build intuition for the processing and analysis of data for a simple linear regression problem.
+The purpose of this project is to expand intuition in the processing and analysis of data for a simple linear regression problem.
 
 
 ## Authors
 
-- Kenji Alford [GIT](https://www.github.com/333kenji)
+- Kenji Alford [Git](https://www.github.com/333kenji)
 
-??? Embiggen (or not)
+
 <!-- TABLE OF CONTENTS -->
 <details>
     
