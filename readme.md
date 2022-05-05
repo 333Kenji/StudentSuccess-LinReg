@@ -10,10 +10,12 @@ The purpose and scope of this project is to expand intuition in the processing a
 
 - Kenji Alford [Git](https://www.github.com/333kenji)
 
+Notebook(s) for this project can be found [here](https://github.com/333Kenji/StudentSuccess-LinReg/tree/main/Notebooks).
+
 
 ---
-??? Linky
-The notebook(s) for this project can be found [here](https://github.com/333Kenji/StudentSuccess-LinReg/tree/main/Notebooks)
+
+
 <!-- TABLE OF CONTENTS -->
 <details>
     
@@ -21,18 +23,15 @@ The notebook(s) for this project can be found [here](https://github.com/333Kenji
   <ol>
     <li>
       <a href="#motivations">Motivations</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
+      <a href="#methods">Methodolgies</a>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+          <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -41,9 +40,9 @@ The notebook(s) for this project can be found [here](https://github.com/333Kenji
   </ol>
 </details>
 
+---
 
-
-
+![alt text](https://github.com/333Kenji/StudentSuccess-LinReg/blob/main/Images/rawdata.jpg "Final")
 ## Motivations
 [](#motivations)  
 
@@ -58,6 +57,7 @@ Goals: Project Objectives
 
 ---
 ## Methodologies
+[](#methods)  
 ### Methods Employed
 - Inferential Statistics
 - Machine Learning
