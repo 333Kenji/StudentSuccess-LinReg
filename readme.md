@@ -1,4 +1,3 @@
-![banner](image.jpg)
 ![alt text](https://github.com/333Kenji/StudentSuccess-LinReg/blob/main/Images/banner.jpg "Final")
 
 # Linear Regression: Student Success Data
