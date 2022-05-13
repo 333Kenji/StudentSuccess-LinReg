@@ -59,7 +59,7 @@ Goals: Project Objectives
 ## Methodologies
 [](#methods)  
 ### Methods Employed
-- Inferential Statistics
+- Inferential Statistics`
 - Machine Learning
     - Why linear regression? The data lends itself to a straight-forward solution using this algorithm because the target and independent features are simple numeric values. This simpllicity allows me to focus more on the application of each data science step.
 - Data Visualization
